@@ -1,0 +1,36 @@
+header{
+    background-color: #333;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+section{
+    width: 100%;
+}
+  article{
+    float: left;
+    padding: 20px 0;
+  }
+  h1 {
+      font-size: 100%;
+  }
+  form{
+      border: 3px solid black;
+      width: 100%;
+      background-color: rgb(221, 221, 153);
+  }
+  #mensagem{
+      height: 60px;
+  }
+  label{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+footer{
+        position: relative;
+        top: 400px;
+        background-color: rgb(5, 4, 4);
+        padding: 10px;
+        text-align: center;
+        color: rgb(248, 244, 244);
+}
